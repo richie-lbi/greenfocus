@@ -1,0 +1,12 @@
+<?php include 'head.php'; ?>
+<?php include 'menu.php'; ?>
+<h1>Mcdonagh costs</h1>
+<p>Father Sean McDonagh’s statement that nuclear power would not be competitive without high subsidies is nonsense.  Both EDF and Centrica have stated that they are happy to build nuclear stations without subsidy.  In addition, Centrica have pointed out that the extra cost of wind turbines over nuclear power is  three million pounds per megawatt . </p>
+<p>The Royal Academy of Engineering has  estimated the cost of generating "base load" electricity using various fuels.  Expressed as pence per kilowatt hour, these are; combined-cycle gas turbine 2.2; new build nuclear (including decommissioning costs) 2.3; pulverised coal steam plant 2.5; onshore wind 5.4; and offshore wind 7.4. </p>
+<p>Currently wind turbines cost five times as much as nuclear power  when distribution costs are included. </p>
+<p>Because of this high cost of wind energy, electricity prices are now very high and one result of this is that there are 2500 deaths from hypothermia per annum in this country. </p>
+<p>The impetus behind the wind turbines comes from Greenpeace and they of course will not be bothered by the 2500 deaths per year since they are responsible for the deaths of millions of children in Africa from malaria.  Greenpeace were a leading  advocate   of the ban on DDT for which there is no environmental justification according to the World Health Organisation.  It is a pity that Father McDonagh is not concerned about the deaths of these African children. </p>
+<p>As far back as 2011, the British experimental environmentalist James Lovelock was pointing out that any intelligent person concerned about global warming should support the building of nuclear power stations immediately. </p>  
+<p>The idea that wind can replace nuclear merely shows that Father McDonagh is  innumerate. </p>
+<p>2400 wind turbines would be needed to replicate one nuclear power station, and of course a coal fuelled power station would have to be on standby perpetually because the wind turbines are idle for three quarters of the time.  It is a pity that Father McDonagh regurgitates the propaganda of the  neo-marxist Greenpeace and ignores any scientific evidence.( see www.greenfocus.co.uk)  Pope Benedict is on record as saying that civil nuclear power can benefit the planet.  It is a pity that  Fr  McDonagh does not listen to rhe  Pope </p>
+<?php include 'foot.php'; ?>
